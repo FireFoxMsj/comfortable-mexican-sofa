@@ -1,6 +1,6 @@
 #= require jquery
 #= require jquery_ujs
-#= require jquery.ui.all
+#= require jquery-ui
 #= require comfortable_mexican_sofa/lib/bootstrap
 #= require comfortable_mexican_sofa/lib/codemirror
 #= require comfortable_mexican_sofa/lib/wysihtml5
